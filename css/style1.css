@@ -1004,7 +1004,7 @@ h1 {
 	width: 100%;
 	top: 0;
 	left: 0;
-	background: url('../img/work-detail/1.jpg') center center;
+	background: url('../workdetail/work-detail/1.jpg') center center;
 	z-index: -3;
 	background-size: cover;
 }
