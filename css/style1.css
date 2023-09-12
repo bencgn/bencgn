@@ -870,13 +870,13 @@ h1 {
 }
 .work-nav {
 	position: absolute;
-	width: 150px;
+	width: 200px;
 	top: 15%;
 	right: 5%;
 	height: 40%;
 	z-index: 99;
 	background-color: #161616;
-	opacity: .8;
+	opacity: .4;
 	
 	
 }
@@ -895,7 +895,7 @@ h1 {
 	color: #ffffff;
 	
 	text-transform: uppercase;
-	opacity: .5;
+	opacity: 1;
 	-moz-transition: all .3s cubic-bezier(0.42, 0, 0, 0.995);
 	-o-transition: all .3s cubic-bezier(0.42, 0, 0, 0.995);
 	-webkit-transition: all .3s cubic-bezier(0.42, 0, 0, 0.995);
